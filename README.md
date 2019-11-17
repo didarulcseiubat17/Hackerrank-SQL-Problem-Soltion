@@ -15,4 +15,5 @@ https://www.cs.scranton.edu/~mccloske/courses/cmps340/rel_alg_intro_lec.html
 http://jcsites.juniata.edu/faculty/rhodes/dbms/relalg.htm
 
 [OLAP](https://apandre.wordpress.com/data/datacube/)
+[standford db course ](https://github.com/didarulcseiubat17/stanford_dbclass)
 
